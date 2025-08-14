@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/CourseO.md",
+                "file": "Notes/Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CourseO"
+              "title": "Testing"
             }
           }
         ],
@@ -199,12 +199,12 @@
   },
   "active": "aa8e8a95d22e356b",
   "lastOpenFiles": [
+    "Templates/CourseO.md",
     "auto_git_vault.sh~",
     "4913",
     "auto_git_vault.sh",
     "Templates/LectureO.md",
     "Notes/test",
-    "Templates/CourseO.md",
     "Courses/Lecture Test.md",
     "Templates/CourseV2.md",
     "Notes/Testing.md",
@@ -234,7 +234,6 @@
     "Repo/Notes",
     "Repo",
     "Courses",
-    "Whiteboard",
-    "asdasdasd"
+    "Whiteboard"
   ]
 }
