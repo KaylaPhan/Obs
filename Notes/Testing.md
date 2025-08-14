@@ -44,3 +44,4 @@ Normal
 This is a longer than usual piece of text to see how *italics* and **bold** look in the middle of text. Pick colors that aren't hard to see among the text, but not too bright either.
 
 Testing commit script
+Testing2 commit script
