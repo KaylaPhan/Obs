@@ -1,6 +1,6 @@
 {
   "disableDoubleClickTextEditing": false,
-  "folder": "Excalidraw",
+  "folder": "Whiteboard",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -119,8 +119,8 @@
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
   "previousRelease": "2.14.3",
-  "showReleaseNotes": true,
-  "showNewVersionNotification": true,
+  "showReleaseNotes": false,
+  "showNewVersionNotification": false,
   "latexBoilerplate": "\\color{blue}",
   "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
@@ -797,7 +797,7 @@
       "key": "G"
     }
   ],
-  "showSplashscreen": true,
+  "showSplashscreen": false,
   "pdfSettings": {
     "pageSize": "A4",
     "pageOrientation": "portrait",
