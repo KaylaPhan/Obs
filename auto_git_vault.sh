@@ -10,7 +10,7 @@ git pull origin main
 git add .
 
 # Commit with timestamp
-git commit -m "Auto-update: $(date +"%Y-%m-%d %H:%M:%S")"
+git commit -m "commited: $(date +"%Y-%m-%d %H:%M:%S")"
 
 # Push to GitHub
 git push origin main
