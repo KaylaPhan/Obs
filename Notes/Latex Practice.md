@@ -1,3 +1,4 @@
+# Practice (with pure Obsidian LaTeX)
 ## Beginner -- Core Symbols & Operators
 $$ a^2 + b^2 = c^2 $$
 $$ x_i^2 + y_i^2 $$
@@ -71,10 +72,4 @@ c & d
 \end{bmatrix} = ad - bc $$
 $$ \zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s} $$
 $$ \int_{\infty}^\infty e^{-x^2/2} \, dx = \sqrt{2\pi } $$
-
-
-
-
-  
-$$ $$
-
+### End
